@@ -5,6 +5,7 @@ YourFlight AI Assistant is an interactive chatbot powered by OpenAI’s GPT and 
 ![Gradio UI](https://img.shields.io/badge/Powered%20by-Gradio-%23FF6B00?style=flat&logo=gradio)
 ![OpenAI](https://img.shields.io/badge/API-OpenAI-%2300A67E)
 
+---
 
 ## 🚀 Features
 
@@ -14,6 +15,7 @@ YourFlight AI Assistant is an interactive chatbot powered by OpenAI’s GPT and 
 - 🧹 Clear chat history easily.
 - 🗣️ Short, courteous, and accurate one-sentence responses from the assistant.
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +25,7 @@ YourFlight AI Assistant is an interactive chatbot powered by OpenAI’s GPT and 
 - PIL (Python Imaging Library) for image handling 🖼️
 - dotenv (for environment variable management) 🌿
 
+---
 
 ## ⚙️ Setup Instructions
 
@@ -69,8 +72,11 @@ python main.py
 
 This will launch a Gradio web interface in your browser automatically.
 
+---
+
 ## 📂 Repository Structure
 
+```
 Airline_Assistant_GenAI/
 │
 ├── main.py             # Main entrypoint with Gradio UI setup
@@ -80,13 +86,17 @@ Airline_Assistant_GenAI/
 ├── prompts.py          # System and image prompts
 ├── tools.py            # tool for price
 └── README.md           # This readme file
+```
 
+---
 
 ## 💡 Usage
 
 1. Type your queries into the chatbox (e.g., "How much is a ticket to Paris?") ✍️
 2. The assistant will reply with the ticket price and generate a pop-art style image of the city. 🏙️🖼️
 3. Use the Clear button to reset the chat history. 🧹
+
+---
 
 ## 🔧 Customization
 
