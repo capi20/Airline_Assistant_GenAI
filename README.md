@@ -5,6 +5,8 @@ YourFlight AI Assistant is an interactive chatbot powered by OpenAI’s GPT and 
 ![Gradio UI](https://img.shields.io/badge/Powered%20by-Gradio-%23FF6B00?style=flat&logo=gradio)
 ![OpenAI](https://img.shields.io/badge/API-OpenAI-%2300A67E)
 
+<img src="airline_chatbot.png" alt="airline chatbot">
+
 ---
 
 ## 🚀 Features
