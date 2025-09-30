@@ -84,7 +84,7 @@ Airline_Assistant_GenAI/
 ├── config.py           # Environment variables and constants
 ├── image.py            # Image generation with OpenAI DALL·E
 ├── prompts.py          # System and image prompts
-├── tools.py            # tool for price
+├── tools.py            # Tool for price
 └── README.md           # This readme file
 ```
 
@@ -100,8 +100,8 @@ Airline_Assistant_GenAI/
 
 ## 🔧 Customization
 
-- Add more ticket prices: Modify TICKET_PRICES dictionary inside tools.py 💵
-- Change AI behavior: Edit the SYSTEM_MESSAGE in prompts.py to adjust the assistant’s personality or response style. 🎭
+- Add more ticket prices: Modify ticket_prices dictionary inside tools.py or query price from your database 💵
+- Change AI behavior: Edit the system_message in prompts.py to adjust the assistant’s personality or response style. 🎭
 - Image styles: Modify the prompt in prompts.py's gen_image_message function to change the art style. 🎨
 
 
